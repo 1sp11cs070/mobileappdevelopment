@@ -1,4 +1,4 @@
-[## Mobile Application Development Laboratory Programs
+## Mobile Application Development Laboratory Programs
 
 This repository contains a collection of programs developed for the Mobile Application Development Laboratory course. The programs are designed to provide practical hands-on experience in developing mobile applications for the Android platform.
 
